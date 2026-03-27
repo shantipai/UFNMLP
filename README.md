@@ -3,7 +3,6 @@ UFNMLP: A Metasurface-Based Imaging Reconstruction Method for Balanced SpatialRe
 
 ## Train:
 ```
-cd FISTA_simple_re
 python experiment_768.py <path/to/your/dataset> --train
 ```
 ## Test  
