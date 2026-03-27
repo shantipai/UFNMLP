@@ -1,12 +1,12 @@
 # UFNMLP
 UFNMLP: A Metasurface-Based Imaging Reconstruction Method for Balanced SpatialRegion Quality
 
-# Train:
+## Train:
 ```
-cd FIST_simple_re
+cd FISTA_simple_re
 python experiment_768.py <path/to/your/dataset> --train
 ```
-# Test  
+## Test  
 ```
 python experiment_768.py <path/to/your/dataset> --eval
 ```
