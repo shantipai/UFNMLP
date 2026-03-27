@@ -1,0 +1,4 @@
+put your val/test data paths here like:
+/media/max525/ubuntu1/data/new_tju/LSDIR_768/val_768/0000112x2.png
+/media/max525/ubuntu1/data/new_tju/LSDIR_768/val_768/0000005x2.png
+...

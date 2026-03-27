@@ -1,0 +1,4 @@
+put your training data paths here like:
+/media/max525/ubuntu1/data/new_tju/LSDIR_768/train_768/0002000_768/0001001x2.png
+/media/max525/ubuntu1/data/new_tju/LSDIR_768/train_768/0002000_768/0001002x2.png
+...
